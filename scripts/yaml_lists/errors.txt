@@ -1,0 +1,1 @@
+https://github.com/danielmiessler/SecLists/raw/master/Discovery/Web-Content/raft-large-directories.txt: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
